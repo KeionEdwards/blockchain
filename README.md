@@ -10,8 +10,7 @@ Whenever you commit to this repository, Live Blockchain Pages will run [Bitcoin 
 
 **What Is Blockchain Developer** and Zero Knowledge Proof Blockchain and `12 Recovery Words Blockchain` text
 
-[Link](http://thecityofsouthfulton.com)<br/> and 
-[3 Concepts Of Blockchain Image](http://blockchainrealestatein.thecityofsouthfulton.com/wp/wp-content/uploads/2018/06/header.jpg)<br/>
+[Link](http://thecityofsouthfulton.com)<br/> and [3 Concepts Of Blockchain Image](http://blockchainrealestatein.thecityofsouthfulton.com/wp/wp-content/uploads/2018/06/header.jpg)<br/>
 
 ### Markdown
 
