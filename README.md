@@ -12,16 +12,16 @@ Whenever you commit to this repository, Live Blockchain Pages will run [Bitcoin 
 
 [Link](http://thecityofsouthfulton.com)<br/> and [3 Concepts Of Blockchain Image](http://blockchainrealestatein.thecityofsouthfulton.com/wp/wp-content/uploads/2018/06/header.jpg)<br/>
 
+# Header 1 <h1>Porsche Blockchain<h1/>
+## Header 2 <h2>Size Of Bitcoin Blockchain<h2/>
+### Header 3 <h3>The Blockchain Revolution<h3/>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1 <h1>Porsche Blockchain<h1/>
-## Header 2 <h2>Size Of Bitcoin Blockchain<h2/>
-### Header 3 <h3>The Blockchain Revolution<h3/>
 
 - The Meaning Of Blockchain
 - Uses Of Blockchain
