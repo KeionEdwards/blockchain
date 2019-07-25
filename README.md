@@ -27,7 +27,7 @@ Syntax highlighted code block
 
 **What Is Blockchain Developer** and Zero Knowledge Proof Blockchain and `12 Recovery Words Blockchain` text
 
-[Link](http://thecityofsouthfulton.com) and ![3 Concepts Of Blockchain Image](http://blockchainrealestatein.thecityofsouthfulton.com/wp/wp-content/uploads/2018/06/header.jpg)
+[Link](http://thecityofsouthfulton.com)<br/> and ![3 Concepts Of Blockchain Image](http://blockchainrealestatein.thecityofsouthfulton.com/wp/wp-content/uploads/2018/06/header.jpg)<br/>
 ```
 
 For more details see [420 Blockchain](https://thecityofsouthfulton.com).
