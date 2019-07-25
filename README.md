@@ -8,6 +8,10 @@ You can use [Blockchain Applications In Real Estate](https://github.com/KeionEdw
 
 Whenever you commit to this repository, Live Blockchain Pages will run [Bitcoin Blockchain](https://thecityofsouthfulton.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+**What Is Blockchain Developer** and Zero Knowledge Proof Blockchain and `12 Recovery Words Blockchain` text
+
+[Link](http://thecityofsouthfulton.com)<br/> and ![3 Concepts Of Blockchain Image](http://blockchainrealestatein.thecityofsouthfulton.com/wp/wp-content/uploads/2018/06/header.jpg)<br/>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -25,9 +29,6 @@ Syntax highlighted code block
 1. Understanding Blockchain Technology
 2. What Is Blockchain Technology
 
-**What Is Blockchain Developer** and Zero Knowledge Proof Blockchain and `12 Recovery Words Blockchain` text
-
-[Link](http://thecityofsouthfulton.com)<br/> and ![3 Concepts Of Blockchain Image](http://blockchainrealestatein.thecityofsouthfulton.com/wp/wp-content/uploads/2018/06/header.jpg)<br/>
 ```
 
 For more details see [420 Blockchain](https://thecityofsouthfulton.com).
